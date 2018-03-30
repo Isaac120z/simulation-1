@@ -1,0 +1,1 @@
+delete from shelfiedb where product_id = $1;
